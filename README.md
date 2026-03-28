@@ -97,7 +97,7 @@ This work is inspired by recent research in nanotechnology and chemical engineer
 * 40 wt% → 84 Ω·cm
 * 60 wt% → 12 Ω·cm (percolation achieved)
 
-![Continuous Flow Setup](https://github.com/ayushtiwari2105G/silver-nanowire-synthesis/blob/main/SilverNanoparticle%20syntheisis/WhatsApp%20Image%202026-03-28%20at%2010.52.53%20PM%20(1).jpeg)
+![Continuous Flow Setup](https://github.com/ayushtiwari2105G/silver-nanowire-synthesis/blob/main/SilverNanoparticle%20syntheisis/WhatsApp%20Image%202026-03-28%20at%2010.52.51%20PM%20(1).jpeg)
 
 📌 Shows excellent potential for **printed electronics** 
 
