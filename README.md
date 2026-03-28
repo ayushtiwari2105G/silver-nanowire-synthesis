@@ -78,12 +78,9 @@ This work is inspired by recent research in nanotechnology and chemical engineer
 ## 🔍 Characterization Techniques
 
 * HRTEM (High Resolution Transmission Electron Microscopy)
-* FESEM (Field Emission Scanning Electron Microscopy)
 * XRD (Crystallinity Analysis)
-* EDS (Elemental Analysis)
 
 📌 XRD confirms crystalline silver structure
-📌 EDS shows ~99% Ag purity 
 
 ---
 
@@ -134,13 +131,6 @@ This project demonstrates a **scalable and efficient method** for synthesizing S
 
 ---
 
-## 👨‍🔬 Author
-
-**Your Name**
-B.Tech Biotechnology
-
----
-
 ## ⭐ Future Scope
 
 * Integration with microfluidic systems
@@ -150,9 +140,3 @@ B.Tech Biotechnology
 
 ---
 
-## 📎 Reference
-
-Based on research article:
-*A Process-Intensified Approach for Large-Scale Manufacturing of Silver Nanowires using Continuous Flow Reactor* 
-
----
