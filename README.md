@@ -56,6 +56,9 @@ This work is inspired by recent research in nanotechnology and chemical engineer
 
 📌 The process converts silver ions → silver nanoparticles → nanowires 
 
+## 🖼️ Experimental Setup
+
+![Continuous Flow Setup](images/setup.jpeg)
 ---
 
 ## 📊 Key Results
