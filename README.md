@@ -29,7 +29,7 @@ This work is inspired by recent research in nanotechnology and chemical engineer
 * Cupric Chloride (CuCl₂)
 * Polyvinylpyrrolidone (PVP)
 * Methanol, Acetone
-![Continuous Flow Setup](https://github.com/ayushtiwari2105G/silver-nanowire-synthesis/blob/main/SilverNanoparticle%20syntheisis/WhatsApp%20Image%202026-03-28%20at%2010.52.53%20PM%20(1).jpeg)
+![Continuous Flow Setup](https://github.com/ayushtiwari2105G/silver-nanowire-synthesis/blob/main/SilverNanoparticle%20syntheisis/WhatsApp%20Image%202026-03-28%20at%2010.52.55%20PM%20(2).jpeg)
 
 ---
 
