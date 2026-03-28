@@ -58,7 +58,7 @@ This work is inspired by recent research in nanotechnology and chemical engineer
 
 ## 🖼️ Experimental Setup
 
-![Continuous Flow Setup](images/setup.jpeg)
+![Continuous Flow Setup](SilverNanoparticle syntheisis/WhatsApp Image 2026-03-28 at 10.52.53 PM (1).jpeg)
 ---
 
 ## 📊 Key Results
